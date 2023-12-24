@@ -79,7 +79,7 @@ hr {
 }
 .bottom-cloud {
   position: absolute;
-  left: 500px;
+  left: 200px;
   bottom: 200px;
 }
 .Mountains {
@@ -164,7 +164,7 @@ hr {
 }
 .portfolio {
   background-color: #30e3cb;
-  height: 200px;
+  height: 40%;
   width: 40%;
   padding: 10% 5%;
   margin: auto;
@@ -208,4 +208,12 @@ hr {
   #dashboard {
     left: -68px;
   }
+}
+
+#scrollToBottomBtn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px;
+    cursor: pointer;
 }

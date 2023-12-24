@@ -1,11 +1,25 @@
-<body>
+ <body>
+	 
+	 
+	  <button id="scrollToBottomBtn">Scroll to Bottom</button>
+
+    <script src="_js/scroll.js">
+	 
+	
+	 
+	 </script>
+	 
+	 
+	 
+	 
+	 
 <div class="top-container"> <img class="top-cloud" src="images/Clouds.png" alt="Clouds-img">
   <h1>I'm Joshua</h1>
   <h3 class="screen-name">GraveYardJokes</h3>
   <h2>a <span class="underlined">Musician</span> and <span class="underlined">Website Developer</span></h2>
   <img class="bottom-cloud" src="images/Clouds.png" alt="Clouds-img"> <img class="Mountains" src="images/Mountains.png" alt="Mountains-img"> </div>
 <div class="middle-container">
-  <div class="profile"> <img src="images/GraveYardJokesLogoJester.svg" alt="profile-picture" width="20%" height="auto">
+  <div class="profile"> <img src="images/GraveYardJokesLogoJesterWhiteBacking.svg" alt="profile-picture" width="20%" height="auto">
     <h2>Hello.</h2>
     <p class="intro">I am a multi-talented individual, proficient in web development, art, design, and music. With a thoughtful approach to each project, I bring a unique blend of skills and creativity to deliver exceptional results.</p>
   </div>
@@ -29,12 +43,12 @@
   <div class="contact-me">
     <h2>Get In Touch</h2>
     <h3 class="ava-txt">I'm avalable for freelance work for Web Design, for composing music, or to create digital art for any number of reasons.</h3>
-    <p>Negotiate your terms with me over a coffee.</p>
+    <p>Negotiate your terms with me <br> over a coffee. <br>☕</p>
     <a class="btn" href="mailto:GraveYardJokes@gmail.com">CONTACT ME</a> </div>
   <div>
-<iframe frameborder="0" src="https://itch.io/embed/1493786?border_width=5&amp;bg_color=0ea644&amp;fg_color=c2d940&amp;link_color=5be5fa&amp;border_color=000000" width="560" height="175"><a href="https://graveyardjokes.itch.io/skull-run">Crypt Escape: A Skeleton's Journey by GraveYardJokes</a></iframe></div>
-
-  <div class="portfolio">
+	  
+	  
+	  <div class="portfolio">
 	<h2>Portfolio</h2>
 	<ul>
 		<li><a href="https://graveyardjokes.com/ChaoticWeather/home.html#&panel1-3">Chaotic Weather</a></li>
@@ -43,6 +57,14 @@
         <li><a href="https://joshua050.mystrikingly.com">About</a></li>
 	</ul>
   </div>
+	  
+	  
+	  <br>
+	  <br>
+	  
+<iframe frameborder="0" src="https://itch.io/embed/1493786?border_width=5&amp;bg_color=0ea644&amp;fg_color=c2d940&amp;link_color=5be5fa&amp;border_color=000000" width="560" height="175"><a href="https://graveyardjokes.itch.io/skull-run">Crypt Escape: A Skeleton's Journey by GraveYardJokes</a></iframe></div>
+
+  
 
   </div>
 </body>
