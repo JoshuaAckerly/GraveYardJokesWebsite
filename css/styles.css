@@ -82,14 +82,55 @@ hr {
 }
 .top-cloud {
   position: absolute;
-  right: 20%;
-  top: 10%
+  left: 20%;
+  top: 10%;
+	background-size: contain;
+	animation: moveCloudA 30s linear infinite;
 }
+
+.middle-cloud {
+	position: absolute;
+	left: 30%;
+	bottom: 45%;
+	background-size: contain;
+	animation: moveCloudB 22s linear infinite;
+}
+
 .bottom-cloud {
   position: absolute;
   left: 15%;
   bottom: 20%;
+	background-size: contain;
+	animation: moveCloudC 35s linear infinite;
 }
+
+@keyframes moveCloudA {
+	from {
+		transform: translateX(0);
+	}
+	to {
+		transform: translateX(calc(100vw + 100px));
+	}
+}
+
+@keyframes moveCloudB {
+	from {
+		transform: translateX(0);
+	}
+	to {
+		transform: translateX(calc(100vw + 100px));
+	}
+}
+
+@keyframes moveCloudC {
+	from {
+		transform: translateX(0);
+	}
+	to {
+		transform: translateX(calc(100vw + 100px));
+	}
+}
+
 .Mountains {
   position: relative;
   top: 12px;
@@ -125,19 +166,19 @@ hr {
 }
 .Gear-par {
   clear: left;
-  width: 90%;
+  width: 80%;
   margin: auto;
   text-align:center;
 }
 .Note-par {
-  clear: right;
-  width: 90%;
+  clear: left;
+  width: 80%;
   margin: auto;
   text-align:center;
 }
 .Art-par {
   clear: left;
-  width: 90%;
+  width: 80%;
   margin: auto;
   text-align:center;
 }
@@ -181,6 +222,10 @@ hr {
   padding: 10% 5%;
   margin: auto;
   border: 5px solid #161616;
+}
+
+.portfolio h2 {
+	margin-bottom: 10%;
 }
 
 .portfolio li {

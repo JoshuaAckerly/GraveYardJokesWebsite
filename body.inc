@@ -10,6 +10,7 @@
       a <span class="underlined">Musician</span> and
       <span class="underlined">Website Developer</span>
     </h2>
+	  <img class="middle-cloud" src="images/Clouds.png" alt="Clouds-img" />
     <img class="bottom-cloud" src="images/Clouds.png" alt="Clouds-img" />
     <img class="Mountains" src="images/Mountains.png" alt="Mountains-img" />
   </div>
