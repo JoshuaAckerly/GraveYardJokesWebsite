@@ -1,3 +1,3 @@
- <div class="bottom-container"> <a class="footer-link" href="https://www.linkedin.com/in/joshua-ackerly-302aa721a/">LinkedIn</a> <a class="footer-link" href="https://twitter.com/GraveYardJokes">Twitter</a> <a class="footer-link" href="https://www.fiverr.com/s/Zvdd04">Fiverr</a> <a class="footer-link" href="https://www.facebook.com/profile.php?id=100073768148100">Facebook</a> <a href="https://discord.gg/T7ChGgYkJ9">Discord</a>
-  <p class="copyright">© 2023 Joshua B. Ackerly @ GraveYardJokes</p>
+ <div class="footer"> <a class="footer-link" href="https://www.linkedin.com/in/joshua-ackerly-302aa721a/">LinkedIn</a> <a class="footer-link" href="https://twitter.com/GraveYardJokes">Twitter</a> <a class="footer-link" href="https://www.fiverr.com/s/Zvdd04">Fiverr</a> <a class="footer-link" href="https://www.facebook.com/profile.php?id=100073768148100">Facebook</a> <a href="https://discord.gg/T7ChGgYkJ9">Discord</a>
+  <p class="copyright" id="copyright"></p>
 </div>
